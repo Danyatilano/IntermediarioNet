@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\miscompras.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\miscompras.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\miscompras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\miscompras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\publicar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\publicar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\publicar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\publicar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\verificacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\verificacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\verificacion.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\verificacion.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\misventas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\misventas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\misventas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\misventas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\detalle.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\detalle.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\productos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\productos.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|c:\\users\\asus\\source\\repos\\intermediariodb\\intermediariodb\\wwwroot\\imagenes\\laptop1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{964AF162-5C7A-70CE-AACA-1BF09CDD7358}|intermediarioDB\\intermediarioDB.csproj|solutionrelative:intermediariodb\\wwwroot\\imagenes\\laptop1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 17,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Publicar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Publicar.cshtml.cs",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Publicar.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Publicar.cshtml.cs",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Publicar.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T05:06:59.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Publicar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Publicar.cshtml",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Publicar.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Publicar.cshtml",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Publicar.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T05:06:02.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:40:08.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MisCompras.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\MisCompras.cshtml",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\MisCompras.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\MisCompras.cshtml",
+              "RelativeToolTip": "intermediarioDB\\Pages\\MisCompras.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-13T00:13:16.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MisCompras.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\MisCompras.cshtml.cs",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\MisCompras.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\MisCompras.cshtml.cs",
+              "RelativeToolTip": "intermediarioDB\\Pages\\MisCompras.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T00:13:28.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T16:08:43.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\appsettings.json",
+              "RelativeDocumentMoniker": "intermediarioDB\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\appsettings.json",
+              "RelativeToolTip": "intermediarioDB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-13T04:44:10.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Index.cshtml",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T00:18:55.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Verificacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Verificacion.cshtml",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Verificacion.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Verificacion.cshtml",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Verificacion.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-13T02:51:58.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Verificacion.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Verificacion.cshtml.cs",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Verificacion.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Verificacion.cshtml.cs",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Verificacion.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T02:52:03.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MisVentas.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\MisVentas.cshtml.cs",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\MisVentas.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\MisVentas.cshtml.cs",
+              "RelativeToolTip": "intermediarioDB\\Pages\\MisVentas.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T01:04:46.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Registro.cshtml",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Registro.cshtml",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Registro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-13T02:17:06.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MisVentas.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\MisVentas.cshtml",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\MisVentas.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\MisVentas.cshtml",
+              "RelativeToolTip": "intermediarioDB\\Pages\\MisVentas.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-13T01:04:40.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Detalle.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Detalle.cshtml.cs",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Detalle.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Detalle.cshtml.cs",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Detalle.cshtml.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwDIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T00:51:10.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Detalle.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Detalle.cshtml",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Detalle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-12T00:47:00.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Productos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Productos.cshtml",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Productos.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Productos.cshtml",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Productos.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T18:00:52.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Login.cshtml",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T16:30:31.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Productos.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Productos.cshtml.cs",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Productos.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Productos.cshtml.cs",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Productos.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T22:20:55.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Program.cs",
+              "RelativeDocumentMoniker": "intermediarioDB\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Program.cs",
+              "RelativeToolTip": "intermediarioDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:32:05.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Logout.cshtml",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T16:31:05.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Logout.cshtml.cs",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T17:02:57.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Error.cshtml",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T00:18:55.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "intermediarioDB\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T00:18:48.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "intermediarioDB\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "intermediarioDB\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-09T17:37:18.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "intermediarioDB\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "intermediarioDB\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:19:13.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "laptop1.jpg - Bitmap [447x447, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\wwwroot\\imagenes\\laptop1.jpg",
+              "RelativeDocumentMoniker": "intermediarioDB\\wwwroot\\imagenes\\laptop1.jpg",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\intermediarioDB\\intermediarioDB\\wwwroot\\imagenes\\laptop1.jpg - Bitmap [447x447, 24 bit, JPG]",
+              "RelativeToolTip": "intermediarioDB\\wwwroot\\imagenes\\laptop1.jpg - Bitmap [447x447, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-11-10T18:55:57.07Z",
+              "EditorCaption": " - Bitmap [447x447, 24 bit, JPG]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
